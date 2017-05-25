@@ -1,5 +1,4 @@
 using System;
-using System;
 using Xunit;
 
 namespace App.Tests.EndToEnd
